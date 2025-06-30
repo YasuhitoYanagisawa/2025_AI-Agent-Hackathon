@@ -2,7 +2,8 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/あなたのGitHubユーザ名/あなたのリポジトリ名/main/streamlit_app.py)
 
-【注】このレポジトリは、Gemini CLI を使ってローカルディレクトリを自動的に修正し、その内容を GitHub にプッシュしたものです。
+【注】このレポジトリは、Gemini CLI を使ってローカルディレクトリを自動的に修正し、その内容を GitHub にプッシュしたものです。Cloud Runでのデプロイ先はこちら。
+[https://hackathon-app-114970122290.asia-northeast1.run.app/](https://hackathon-app-114970122290.asia-northeast1.run.app/)
 
 Gemini APIとGoogle Drive/Spreadsheetを活用して、日本のお祭りを検索し、訪問記録を写真と共に管理できるStreamlitアプリケーションです。
 
