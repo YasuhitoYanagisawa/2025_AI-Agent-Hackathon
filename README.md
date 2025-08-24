@@ -4,7 +4,7 @@
 
 【注】このレポジトリは、Gemini CLI を使ってローカルディレクトリを自動的に修正し、その内容を GitHub にプッシュしたものです。
 
-Cloud Runでのデプロイ先はこちら。
+Cloud Runでのデプロイ先はこちら
 [https://hackathon-app-114970122290.asia-northeast1.run.app/](https://hackathon-app-114970122290.asia-northeast1.run.app/)
 
 解説ブログ
